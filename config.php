@@ -1,3 +1,3 @@
 <?php
 
-const PAGE_TITLE = "Formulário de contacto";
+const PAGE_TITLE = "Contact Form";

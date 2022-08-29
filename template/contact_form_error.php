@@ -1,5 +1,6 @@
 <div class="page">
-    <h1>Página de erro</h1>
-    <p>Todos os campos devem ser de preenchimento obrigatório!</p>
-    <a href="index.php">Voltar ao formulário</a>
+    <h1>Error Page</h1>
+    <p>All fields must be filled out!</p>
+    <br>
+    <a href="index.php">Back to Form</a>
 </div>
